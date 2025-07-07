@@ -32,13 +32,6 @@ A sleek, responsive calculator web application built with HTML, CSS, and JavaScr
    cd calculator
    ```
 
-3. Open `index.html` in your web browser or use a local server:
-   ```bash
-   # Using Python's built-in server
-   python -m http.server 8000
-   # Then visit http://localhost:8000
-   ```
-
 ## Project Structure
 
 ```
